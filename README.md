@@ -55,6 +55,11 @@ Please cite the related paper or dataset record when using this dataset. See `CI
 
 Public repository: https://github.com/guao187838/salt-spray-electrical-connector-dataset
 
+## Supplementary Material
+
+The accompanying failure-mechanism analysis is available as
+[`supplementary_material.pdf`](supplementary_material/supplementary_material.pdf).
+
 ## License
 
 Dataset contents are released under CC BY 4.0. See `LICENSE`.
