@@ -51,6 +51,10 @@ Original specimen labels were replaced with sequential anonymous identifiers suc
 
 Please cite the related paper or dataset record when using this dataset. See `CITATION.cff`.
 
+## Repository
+
+Public repository: https://github.com/guao187838/salt-spray-electrical-connector-dataset
+
 ## License
 
 Dataset contents are released under CC BY 4.0. See `LICENSE`.

@@ -18,6 +18,8 @@ authors:
 version: "1.0.0"
 date-released: 2026-07-20
 license: "CC-BY-4.0"
+repository-code: "https://github.com/guao187838/salt-spray-electrical-connector-dataset"
+url: "https://github.com/guao187838/salt-spray-electrical-connector-dataset"
 keywords:
   - "electrical connector"
   - "salt-spray corrosion"
