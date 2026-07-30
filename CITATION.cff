@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated paper or dataset record."
+title: "Salt Spray Degradation Dataset for Electrical Connectors"
+type: dataset
+authors:
+  - family-names: "Gu"
+    given-names: "Ao"
+    orcid: "https://orcid.org/0009-0001-1653-0466"
+  - family-names: "Jiang"
+    given-names: "Cong"
+    orcid: "https://orcid.org/0009-0008-8453-9914"
+  - family-names: "Qi"
+    given-names: "Yang"
+    orcid: "https://orcid.org/0009-0000-0166-7980"
+  - family-names: "Suo"
+    given-names: "Bin"
+    orcid: "https://orcid.org/0000-0001-9254-9516"
+version: "1.0.0"
+date-released: 2026-07-20
+license: "CC-BY-4.0"
+keywords:
+  - "electrical connector"
+  - "salt-spray corrosion"
+  - "accelerated degradation test"
+  - "contact resistance"
+  - "insulation resistance"
+  - "corrosion area"

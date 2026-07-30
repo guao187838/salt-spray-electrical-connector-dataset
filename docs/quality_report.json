@@ -1,0 +1,103 @@
+{
+  "files": {
+    "contact_resistance_processed.csv": {
+      "rows": 2550,
+      "series": 265,
+      "specimens": 23,
+      "missing_values": 0
+    },
+    "insulation_resistance_processed.csv": {
+      "rows": 2496,
+      "series": 270,
+      "specimens": 24,
+      "missing_values": 0
+    },
+    "corrosion_area_processed.csv": {
+      "rows": 942,
+      "series": 102,
+      "specimens": 24,
+      "missing_values": 0
+    },
+    "all_metrics_processed_long.csv": {
+      "rows": 5988,
+      "series": 637,
+      "specimens": 24,
+      "missing_values": 0
+    }
+  },
+  "time_nodes_h": {
+    "0.005": [
+      0,
+      24,
+      48,
+      72,
+      96,
+      120,
+      144,
+      168
+    ],
+    "0.01": [
+      0,
+      24,
+      48,
+      72,
+      96,
+      120,
+      144,
+      168
+    ],
+    "0.02": [
+      0,
+      12,
+      24,
+      36,
+      48,
+      60,
+      72,
+      84,
+      96,
+      108,
+      120
+    ],
+    "0.03": [
+      0,
+      12,
+      24,
+      36,
+      48,
+      60,
+      72,
+      84,
+      96,
+      108,
+      120
+    ],
+    "0.04": [
+      0,
+      12,
+      24,
+      36,
+      48,
+      60,
+      72,
+      84,
+      96
+    ],
+    "0.05": [
+      0,
+      12,
+      24,
+      36,
+      48,
+      60,
+      72,
+      84,
+      96
+    ]
+  },
+  "notes": [
+    "Original spreadsheet lock files and derived model-result files were excluded.",
+    "Only processed degradation indicators are released.",
+    "Specimen labels were anonymized."
+  ]
+}
