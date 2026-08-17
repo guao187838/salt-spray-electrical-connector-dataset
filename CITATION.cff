@@ -15,8 +15,8 @@ authors:
   - family-names: "Suo"
     given-names: "Bin"
     orcid: "https://orcid.org/0000-0001-9254-9516"
-version: "1.0.1"
-date-released: 2026-07-30
+version: "1.0.2"
+date-released: 2026-08-17
 license: "CC-BY-4.0"
 repository-code: "https://github.com/guao187838/salt-spray-electrical-connector-dataset"
 url: "https://github.com/guao187838/salt-spray-electrical-connector-dataset"

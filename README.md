@@ -2,6 +2,8 @@
 
 This repository contains anonymized and processed degradation indicators from salt spray accelerated life tests of electrical connectors. Original absolute measurements are not included.
 
+The dataset supports the associated manuscript entitled "Salt-Spray Corrosion Failure Analysis and Mechanism-Informed Remaining Useful Life Assessment of Electrical Connectors".
+
 ## Data Files
 
 - `data/contact_resistance_processed.csv`: processed contact-resistance degradation indicators.
@@ -50,6 +52,10 @@ Original specimen labels were replaced with sequential anonymous identifiers suc
 ## Suggested Citation
 
 Please cite the related paper or dataset record when using this dataset. See `CITATION.cff`.
+
+Associated manuscript:
+
+Gu, A., Jiang, C., Qi, Y., and Suo, B. Salt-Spray Corrosion Failure Analysis and Mechanism-Informed Remaining Useful Life Assessment of Electrical Connectors.
 
 ## Repository
 
